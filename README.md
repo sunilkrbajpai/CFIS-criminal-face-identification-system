@@ -1,4 +1,4 @@
-Click on star :star: an fork this repository to your system.
+Click on star :star: and fork this repository to your system.
 
 # 1. Start page:
 
